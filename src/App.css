@@ -3,6 +3,45 @@
   text-align: center;
 }
 
+li {
+  text-align: justify;
+  padding: 1.0vw;
+  margin-left: 0.8vw;
+  margin-right: 0.8vw;
+  margin-top: 0.8vw;
+  margin-bottom: 0.8vw;
+}
+
+.container {
+  border: solid 0.2vw black;
+  margin-top: 2.5vw;
+  margin-bottom: 2.5vw;
+  margin-left: 15.0vw;
+  margin-right: 15.0vw;
+}
+
+h1 {
+  font-size: 3.0vw;
+  font-weight: bold;
+}
+
+a {
+  font-size: 2.0vw;
+  font-weight: bold;
+}
+
+button {
+  font-size: 2.5vw;
+  font-weight: bold;
+  margin-top: 2.0vw;
+  margin-bottom: 2.0vw;
+  margin-left: 2.0vw;
+  margin-right: 2.0vw;
+  padding: 2.0vw;
+  background-color: lightsteelblue;
+}
+
+
 /* .App-logo {
   height: 40vmin;
   pointer-events: none;
